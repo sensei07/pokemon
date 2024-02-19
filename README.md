@@ -16,13 +16,6 @@ yarn install - install dependencies
 npm run start - frontend project in dev mode
 ```
 
-## Launch of the project
-
-```
-yarn install - install dependencies
-npm run start - frontend project in dev mode
-```
-
 ----
 
 ## Scripts
