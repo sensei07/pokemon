@@ -1,3 +1,11 @@
+## Link
+
+```
+https://sensei07.github.io/pokemon/
+```
+
+----
+
 ## Technologies used in the project
 - React; 
 - TypeScript;
